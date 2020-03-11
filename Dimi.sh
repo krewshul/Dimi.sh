@@ -38,7 +38,7 @@ sudo apt-get --assume-yes install libqrencode-dev
 sleep 2
 sudo apt-get --assume-yes install libboost-all-dev
 sleep 2
-sudo wget https://github.com/Diminutivecoin/Dimicoin/archive/v1003hmq1725MAIN.tar.gz
+sudo wget https://github.com/Diminutivecoin/Dimicoin/archive/v1004hmq1725MAIN.tar.gz
 sleep 2
 echo -e "#############################################################################################################################################"
 echo -e "#############################################################################################################################################"
@@ -46,9 +46,9 @@ echo -e "########################################          tarball           ###
 echo -e "#############################################################################################################################################"
 echo -e "#############################################################################################################################################"
 sleep 2
-sudo tar xvzf v1003hmq1725MAIN.tar.gz
+sudo tar xvzf v1004hmq1725MAIN.tar.gz
 sleep 2
-cd Dimicoin-1003hmq1725MAIN/src
+cd Dimicoin-1004hmq1725MAIN/src
 sleep 2
 sudo chmod 755 leveldb/*
 sleep 2
